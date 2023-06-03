@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Point_of_Sale", "Point_of_Sale\Point_of_Sale.csproj", "{A27671A4-8709-4BF2-B4E5-594C90C3B1A5}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "StockPoint Setup", "StockPoint Setup\StockPoint Setup.vdproj", "{786391D2-43F3-488B-B51C-58122EDECA68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A27671A4-8709-4BF2-B4E5-594C90C3B1A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A27671A4-8709-4BF2-B4E5-594C90C3B1A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A27671A4-8709-4BF2-B4E5-594C90C3B1A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A27671A4-8709-4BF2-B4E5-594C90C3B1A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{786391D2-43F3-488B-B51C-58122EDECA68}.Debug|Any CPU.ActiveCfg = Debug
+		{786391D2-43F3-488B-B51C-58122EDECA68}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51E45B8F-0BE1-44A6-BE43-F768DE125D1F}
+	EndGlobalSection
+EndGlobal
